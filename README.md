@@ -1,6 +1,7 @@
 # NLP Mini_Projet 
 ### Theme : Sentiment Analysis + Text Generation 
 #### Groupe : AMEZIANE Mohamed - ET-TABTI Youness 
+#### ENCADRE PAR : Pr. MAHMOUDI ABDELHAK
 
 À propos de ce projet
 Nous avons travaillé sur la langue espagnole (espagnol colombien). On a concentrés sur le jour des élections colombiennes 2019 et nous avons divisé notre analyse en deux parties :
