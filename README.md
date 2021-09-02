@@ -13,6 +13,6 @@ Les mêmes tweets ont été introduits dans le réseau afin de produire un texte
 
 
 
-
-
+PDF
+https://drive.google.com/file/d/1nDJq0L4_0-O7WX_BqgB4kCFqyKHTDPKq/view?usp=sharing
 
