@@ -15,7 +15,7 @@ Read in : <br>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AMEZIANEMOHAMED/Mini_Projet/main?filepath=Min_Projet_NLP.ipynb)<br>
 OR<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMEZIANEMOHAMED/Mini_Projet/blob/main/Min_Projet_NLP.ipynb]
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/weiji14/deepbedmap/)
 
 
 PDF
