@@ -12,13 +12,13 @@ Nous avons travaillé sur la langue espagnole (espagnol colombien). On a concent
 Les mêmes tweets ont été introduits dans le réseau afin de produire un texte qui résume/capture le contexte autour des mots-clés contenus dans les tweets. 
 
 
-### Read in : <br> 
+### Ouvrir Avec : <br> 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AMEZIANEMOHAMED/Mini_Projet/main?filepath=Min_Projet_NLP.ipynb)<br>
-OR<br>
+Ou bien <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMEZIANEMOHAMED/Mini_Projet/blob/main/Min_Projet_NLP.ipynb)
 
 
-### Read PDF
+### Lire le PDF
 [![download !](https://img.shields.io/badge/Download-here-green)](https://drive.google.com/file/d/1nDJq0L4_0-O7WX_BqgB4kCFqyKHTDPKq/view?usp=sharing)
         
 
